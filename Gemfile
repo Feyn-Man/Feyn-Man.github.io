@@ -20,7 +20,8 @@ gem "minima", "~> 2.0"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
-  gem "jemoji"
+  gem "jemoji" #per usare le emoji di github
+  gem "jekyll-theme-basically-basic" #tema di mmistakes
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
