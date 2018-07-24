@@ -4,7 +4,4 @@ title: Data Science portfolio
 permalink: /Data-Science-Portfolio/
 ---
 
-Benvenuti nel mio sito personale in cui troverete tutto ciò di cui mi interesso e mi occupo.
-
-## Chi sono? :thinking:
-bla bla
+In questa pagina sono raccolti tutti i progetti e appunti sviluppati nell'ambito del corso di laurea magistrale in Data Science.
