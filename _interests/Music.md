@@ -8,7 +8,7 @@ image:
 ---
 
 # What I'm listening
-Guarda cos sto ascoltando anche su {% include icon-lastfm.html username="Feyn-Man" label='LastFm' %}
+Guarda co sto ascoltando anche su {% include icon-lastfm.html username="Feyn-Man" label='LastFm' %}
 
 ## Classica
 
