@@ -38,9 +38,6 @@ collections:
   Data-Science-Portfolio:
     output: true
     permalink: /:collection/:path/
-  interests:
-    output: false
-    permalink: /:collection/:path/
   reading:
     output: true
     permalink: /:collection/:path/
