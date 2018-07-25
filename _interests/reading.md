@@ -1,6 +1,6 @@
 ---
 title: "Reading"
-layout: default
+layout: page
 image:
   path: /images/reading-1600x600.jpeg
   thumbnail: /images/reading-400x200.jpeg
@@ -8,8 +8,9 @@ image:
 permalink: /interests/reading/
 read: 1
 ---
-{% for item in site.reading %}
-{% if section.read == page.read %}
-{{ section.output }}
-{% endif %}
-{% endfor %}
+{% assign entries = site.reading %}
+
+
+{%- for post in entries -%}
+  {% include entry.html %}
+{%- endfor -%}
