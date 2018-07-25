@@ -27,6 +27,8 @@ linkedin_username: elia-schiavon
 
 # Build settings
 markdown: kramdown
+kramdown:
+  parse_block_html: true
 remote_theme: Feyn-Man/custom-theme-basically-basic
 plugins:
   - jekyll-feed
