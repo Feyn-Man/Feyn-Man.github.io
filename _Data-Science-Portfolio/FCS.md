@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-toc
 title: "Foundations of Computer Science"
 sub_title: prova sottotitolo
 introduction: prova introduzione
