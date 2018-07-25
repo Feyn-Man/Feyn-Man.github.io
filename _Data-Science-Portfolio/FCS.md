@@ -1,11 +1,11 @@
 ---
-title: "Foundations of Computer Science"
 layout: page
+title: "Foundations of Computer Science"
+sub_title: prova sottotitolo
+introduction: prova introduzione
 ---
 
-Progetto di foundations of computer scien.
-
-{% include toc.html html=content %}
+Progetto di foundations of computer scie.
 
 # titolo1
 
