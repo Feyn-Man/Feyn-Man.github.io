@@ -1,5 +1,5 @@
 ---
-title: "Reading"
+title: "What I'm reading"
 layout: collection
 image:
   path: /images/reading-1600x600.jpeg
