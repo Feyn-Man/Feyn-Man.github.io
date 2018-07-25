@@ -39,11 +39,11 @@ collections:
     output: true
     permalink: /:collection/:path/
   interests:
-    output: true
+    output: false
     permalink: /:collection/:path/
   reading:
     output: true
-    permalink: /:reading.permalink/:path/
+    permalink: /:collection/:path/
 
 
 
