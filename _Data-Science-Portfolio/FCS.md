@@ -1,5 +1,6 @@
 ---
 title: "Foundations of Computer Science"
+layout: page
 image:
   path: /images/oatmeal-cookies-lg.jpg
   thumbnail: /images/oatmeal-cookies-400x200.jpg
