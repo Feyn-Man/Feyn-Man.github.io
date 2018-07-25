@@ -2,7 +2,7 @@
 title: Data Science Portfolio
 layout: collection
 permalink: /Data-Science-Portfolio/
-collection: Data-Science
+collection: _Data-Science-Portfolio
 entries_layout: grid
 ---
 
