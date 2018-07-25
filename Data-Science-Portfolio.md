@@ -1,5 +1,5 @@
 ---
-title: "Working"
+title: "Working :bar_chart:"
 layout: collection
 image:
   path: /images/data-center.jpeg
