@@ -35,9 +35,9 @@ plugins:
   - jemoji
 
 collections:
-  recipes:
-    output: true
   Data-Science-Portfolio:
+    output: true
+  interests:
     output: true
 permalink: /:collection/:path/
 

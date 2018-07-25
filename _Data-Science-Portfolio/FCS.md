@@ -5,7 +5,7 @@ sub_title: prova sottotitolo
 introduction: prova introduzione
 ---
 
-Progetto di foundations of computer scie.
+Progetto di foundations of computer science.
 
 # titolo1
 
