@@ -6,9 +6,14 @@ image:
   thumbnail: /images/music-400x200.jpeg
   caption: "Photo by Ylanite Koppens from [Pexels](https://www.pexels.com)"
 ---
-{% include icon-github.html username=Feyn-Man label='GitHub' %}
 
 # What I'm listening
+Guarda cosa sto ascoltando anche su {% include icon-lastfm.html username=Feyn-Man label='LastFm' %} :smile:
 
+## Classica
+
+## Jazz
+
+## Pop
 
 # What I'm playing
