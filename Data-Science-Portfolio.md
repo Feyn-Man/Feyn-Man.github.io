@@ -1,5 +1,5 @@
 ---
-title: "What I'm doing"
+title: "Working"
 layout: collection
 image:
   path: /images/data-center.jpeg
