@@ -39,6 +39,8 @@ collections:
     output: true
   interests:
     output: true
+  reading:
+    output: true
 permalink: /:collection/:path/
 
 
