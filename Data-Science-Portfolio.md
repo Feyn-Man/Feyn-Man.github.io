@@ -1,5 +1,5 @@
 ---
-title: "Data Science Portfolio"
+title: "What I'm doing"
 layout: collection
 image:
   path: /images/data-center.jpeg
