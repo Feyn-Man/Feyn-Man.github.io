@@ -1,5 +1,5 @@
 ---
-title: "Reading :smile:"
+title: "Reading :books:"
 layout: collection
 image:
   path: /images/reading-1600x600.jpeg
