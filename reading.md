@@ -1,6 +1,6 @@
 ---
 title: "Reading"
-layout: page
+layout: collection
 image:
   path: /images/reading-1600x600.jpeg
   thumbnail: /images/reading-400x200.jpeg
