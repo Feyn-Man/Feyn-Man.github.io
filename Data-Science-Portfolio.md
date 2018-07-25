@@ -2,7 +2,7 @@
 title: "Data Science Portfolio"
 layout: collection
 image:
-  path: /images/study-1600x600.jpeg
+  path: /images/data-center.jpeg
   caption: "Photo from [Pexels](https://www.pexels.com)"
 permalink: /Data-Science-Portfolio/
 collection: Data-Science-Portfolio
