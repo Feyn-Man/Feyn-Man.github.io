@@ -43,7 +43,7 @@ collections:
     permalink: /:collection/:path/
   reading:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:reading.permalink/:path/
 
 
 
