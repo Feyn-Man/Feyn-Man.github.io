@@ -35,6 +35,8 @@ plugins:
 collections:
   recipes:
     output: true
+  Data-Science-Portfolio:
+    output: true
 permalink: /:collection/:path/
 
 
