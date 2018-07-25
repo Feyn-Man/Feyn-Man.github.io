@@ -1,6 +1,6 @@
 ---
 layout: page-toc
-title: "What I'm listening"
+title: "Listening"
 image:
   path: /images/music-1600x600.jpeg
   thumbnail: /images/music-400x200.jpeg
