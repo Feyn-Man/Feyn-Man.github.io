@@ -10,9 +10,9 @@ Guarda cos sto ascoltando anche su {% include icon-lastfm.html username="Feyn-Ma
 
 <nav>
    <ul>
-      <li><a href="#Classica">Classica</a></li>
-      <li><a href="#Jazz">Jazz</a></li>
-      <li><a href="#Pop">Pop</a></li>
+      <li><a href="#classica">Classica</a></li>
+      <li><a href="#jazz">Jazz</a></li>
+      <li><a href="#pop">Pop</a></li>
    </ul>
 </nav>
 
