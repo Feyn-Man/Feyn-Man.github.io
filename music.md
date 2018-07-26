@@ -8,6 +8,14 @@ image:
 ---
 Guarda cosa sto ascoltando anche su {% include icon-lastfm.html username="Feyn-Man" label='LastFm' %}
 
+<nav>
+   <ul>
+      <li><a href="#">Classica</a></li>
+      <li><a href="#">Jazz</a></li>
+      <li><a href="#">Pop</a></li>
+   </ul>
+</nav>
+
 ## Classica
 
 ## Jazz
