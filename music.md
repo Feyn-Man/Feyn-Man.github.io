@@ -24,7 +24,7 @@ Guarda cosa sto ascoltando anche su {% include icon-lastfm.html username="Feyn-M
 <nav>
   <ul>
     <li><a href="#giorgio-gaber">Giorgio Gaber</a></li>
-    <li><a href="#fabrizio-de-andre">Fabrizio De Andrè</a></li>
+    <li><a href="#fabrizio-de-andrè">Fabrizio De Andrè</a></li>
   </ul>
 </nav>
 
