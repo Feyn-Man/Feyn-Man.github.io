@@ -6,13 +6,13 @@ image:
   thumbnail: /images/music-400x200.jpeg
   caption: "Photo by Ylanite Koppens from [Pexels](https://www.pexels.com)"
 ---
-Guarda cosa sto ascoltando anche su {% include icon-lastfm.html username="Feyn-Man" label='LastFm' %}
+Guarda cos sto ascoltando anche su {% include icon-lastfm.html username="Feyn-Man" label='LastFm' %}
 
 <nav>
    <ul>
-      <li><a href="#">Classica</a></li>
-      <li><a href="#">Jazz</a></li>
-      <li><a href="#">Pop</a></li>
+      <li><a href="#Classica">Classica</a></li>
+      <li><a href="#Jazz">Jazz</a></li>
+      <li><a href="#Pop">Pop</a></li>
    </ul>
 </nav>
 
