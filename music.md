@@ -27,6 +27,7 @@ Guarda cosa sto ascoltando anche su {% include icon-lastfm.html username="Feyn-M
     <li><a href="#fabrizio-de-andre">Fabrizio De Andrè</a></li>
   </ul>
 </nav>
+
 ### Fabrizio De Andrè
 
 ### Giorgio Gaber
