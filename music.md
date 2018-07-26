@@ -6,7 +6,7 @@ image:
   thumbnail: /images/music-400x200.jpeg
   caption: "Photo by Ylanite Koppens from [Pexels](https://www.pexels.com)"
 ---
-Guarda cos sto ascoltando anche su {% include icon-lastfm.html username="Feyn-Man" label='LastFm' %}
+Guarda cosa sto ascoltando anche su {% include icon-lastfm.html username="Feyn-Man" label='LastFm' %}.
 
 <nav>
    <ul>
@@ -21,6 +21,14 @@ Guarda cos sto ascoltando anche su {% include icon-lastfm.html username="Feyn-Ma
 ## Jazz
 
 ## Pop
+<nav>
+  <ul>
+    <li><a href="#giorgio-gaber">Giorgio Gaber</a></li>
+    <li><a href="#fabrizio-de-andre">Fabrizio De Andrè</a></li>
+  </ul>
+</nav>
+### Fabrizio De Andrè
+
 ### Giorgio Gaber
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/o3VEaTN6mF0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> prova
