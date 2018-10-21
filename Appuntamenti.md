@@ -1,10 +1,9 @@
 ---
 title: "Appuntamenti"
 layout: collection
+collection: Appuntamenti
 image:
   path: /images/concerto.jpg
-  caption: "Photo from [Pexels](https://www.pexels.com)"
 permalink: /Appuntamenti/
-collection: Appuntamenti
 entries_layout: grid
 ---
