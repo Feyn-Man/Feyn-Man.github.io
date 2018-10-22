@@ -23,7 +23,7 @@ Giada Guittini <br>
 Michel Guittini <br>
 Stefania Mora <br>
 Carlotta Tacchino <br>
-Ilaria temporelli <br></p>
+Ilaria Temporelli <br></p>
 
 <br>
 
@@ -31,6 +31,26 @@ Ilaria temporelli <br></p>
      style="float: left; margin-right: 10px;" />
 
 <p style="padding-top: 30px"><b>Flauti:</b><br>
-Arianna Barbero <br>
-Jacopo Canonica <br>
-Giulio Dusooo <br></p>
+Daniele Agostino <br>
+Alessia Bollini <br>
+Michela Gabanella <br></p>
+
+<br>
+
+<img src="/images/sax150x150.png"
+     style="float: left; margin-right: 10px; margin-top: 70px;" />
+
+<p style="padding-left: 160px"><b>Sax soprano:</b><br>
+Giada Comazzi <br>
+<br>
+<b>Sax contralto:</b> <br>
+Erica Barusco <br>
+Claudia Fontaneto <br>
+Fabio Gabanella <br>
+Carolina Tacca <br>
+<br>
+<b>Sax tenore:</b><br>
+Enrica Tacca <br>
+Chiara Schiavon<br></p>
+
+<br>
