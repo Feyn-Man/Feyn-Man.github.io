@@ -7,3 +7,8 @@ title: "La Cavagliese"
 sub_title: "Sito della banda musicale \"La Cavagliese\""
 image: "images/cover.jpg"
 ---
+<form method="POST" action="https://formspree.io/YOUREMAILHERE">
+  <input name="email" placeholder="Your email" type="email">
+  <textarea name="message" placeholder="Your message"></textarea>
+  <button type="submit">Send</button>
+</form>
