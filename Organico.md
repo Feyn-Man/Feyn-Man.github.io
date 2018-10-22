@@ -33,4 +33,4 @@ Ilaria temporelli <br></p>
 <p style="padding-top: 30px"><b>Flauti:</b><br>
 Arianna Barbero <br>
 Jacopo Canonica <br>
-Giulio Duso <br></p>
+Giulio Dusoo <br></p>
