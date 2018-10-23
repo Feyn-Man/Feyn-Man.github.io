@@ -54,3 +54,30 @@ Enrica Tacca <br>
 Chiara Schiavon<br></p>
 
 <br>
+
+<img src="/images/tromba150x150.png"
+     style="float: left; margin-right: 10px;" />
+
+<p style="padding-top: 30px"><b>Trombe:</b><br>
+Giulio Lovati <br>
+Filippo Rollini <br></p>
+
+<br>
+
+<img src="/images/flicorno150x150.png"
+     style="float: left; margin-right: 10px;  margin-top: 40px;" />
+
+<p style="padding-top: 70px"><b>Flicorni contralti:</b><br>
+Antonio Calabrese <br>
+Eugenio Mancini <br></p>
+
+<br>
+
+<img src="/images/batteria150x150.png"
+     style="float: left; margin-right: 10px; margin-top: 40px;" />
+
+<p style="padding-top: 70px"><b>Percussioni:</b><br>
+Paolo Grazioli <br>
+Alessandro Sala <br></p>
+
+<br>
