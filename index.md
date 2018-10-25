@@ -7,7 +7,7 @@ title: "La Cavagliese"
 sub_title: "Sito della banda musicale \"La Cavagliese\""
 image: "images/cover.jpg"
 ---
-Desideri contattare la banda per un evento o vuoi imparare a suonare uno strumento? Scrivici!b<br>
+Desideri contattare la banda per un evento o vuoi imparare a suonare uno strumento? Scrivici!<br>
 
 <form id="contactform" method="POST" action="https://formspree.io/eliaae95@gmail.com">
   <input name="email" placeholder="Inserisci qui la tua email" type="email">
