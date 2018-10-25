@@ -73,6 +73,23 @@ Eugenio Mancini <br></p>
 
 <br>
 
+<img src="/images/eufonio150x150.png"
+     style="float: left; margin-right: 10px;  margin-top: 40px;" />
+
+<p style="padding-top: 70px"><b>Eufonio:</b><br>
+Francesco Tacchino <br>
+Lorenzo Duso <br></p>
+
+<br>
+
+<img src="/images/tuba150x150.png"
+     style="float: left; margin-right: 10px;  margin-top: 40px;" />
+
+<p style="padding-top: 70px"><b>Tuba:</b><br>
+Elia Schiavon <br></p>
+
+<br>
+
 <img src="/images/batteria150x150.png"
      style="float: left; margin-right: 10px; margin-top: 40px;" />
 
