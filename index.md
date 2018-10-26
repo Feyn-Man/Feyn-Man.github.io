@@ -16,4 +16,4 @@ Desideri contattare la banda per un evento o vuoi imparare a suonare uno strumen
 </form>
 <br>
 
-Per altre informazioni di contatto visita la pagina [Contatti](feyn-man.github.io/contatti).
+Per altre informazioni di contatto visita la pagina [Contatti](/contatti).
