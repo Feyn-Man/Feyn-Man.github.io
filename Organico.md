@@ -95,3 +95,11 @@ Elia Schiavon <br></p>
 
 <p style="padding-top: 70px"><b>Tuba:</b><br>
 Elia Schiavon </p>
+
+<br>
+
+<img src="/images/tuba150x150.png"
+     style="float: left; margin-right: 10px;  margin-top: 40px;" />
+
+<p style="padding-top: 70px"><b>Tuba:</b><br>
+Elia Schiavon </p>
