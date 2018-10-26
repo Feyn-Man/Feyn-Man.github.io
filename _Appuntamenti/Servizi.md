@@ -25,4 +25,4 @@ Calendario dei prossimi servizi.
 
 | Data | Servizio | Luogo | Ora | Ritrovo |
 |------|----------|-------|-----|---------|
-| 22/12 | Concerto | Cavaglio | 20.00 | 21.00 |
+| 22/12 | Concerto | Cavaglio | 21.00 | 20.00 |
