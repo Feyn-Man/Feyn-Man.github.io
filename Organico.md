@@ -94,6 +94,4 @@ Elia Schiavon <br></p>
      style="float: left; margin-right: 10px;  margin-top: 40px;" />
 
 <p style="padding-top: 70px"><b>Tuba:</b><br>
-Elia Schiavon <br></p>
-
-<br>
+Elia Schiavon </p>
