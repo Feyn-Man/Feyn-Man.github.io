@@ -95,6 +95,6 @@ Elia Schiavon <br></p>
 <img src="/images/batteria150x150.png"
      style="float: left; margin-right: 10px;  margin-top: 30px;" />
 
-<p style="padding-top: 80px"><b>Percussioni:</b><br>
+<p style="padding-top: 70px"><b>Percussioni:</b><br>
 Paolo Grazioli <br>
 Alessandro Sala <br></p>
