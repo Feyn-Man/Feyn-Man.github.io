@@ -95,6 +95,4 @@ Elia Schiavon <br></p>
 
 <p style="padding-top: 70px"><b>Percussioni:</b><br>
 Paolo Grazioli <br>
-Alessandro Sala <br></p>
-
-<br>
+Alessandro Salaa <br></p>
